@@ -35,27 +35,28 @@ py [nama file].py
 3. Masukan alamat berikut pada browser
 > localhost/[nama folder]/[nama file]/.php
 
-### Penjelasan kode Program
+### Soal
 - ## C++, Python, Java
 > Pada bahasa Pemrograman ini, diperintahkan Membuat program berbasis oop untuk menampilkan informasi Daftar Mahasiswa (sekumpulan objek Mahasiswa) yang memiliki Fitur CRUD, dan setiap mahasiswa memiliki data nama, NIM, program studi, dan fakultas.
 - ## PHP
 > Pada bahasa Pemrograman ini, diperintahkan Membuat program berbasis oop untuk menampilkan informasi Daftar Mahasiswa (sekumpulan objek Mahasiswa)yang  memiliki fitur CRUD, dan setiap mahasiswa memiliki data nama, NIM, program studi, fakultas, dan foto profil.
 
-- ## Class
+## Class
 > Pada program yang saya buat, terdapat 2 Class dan 1 Main, yaitu:
   1. Class Crud untuk membuat suatu objek CRUD yang mempunyai fungsi atau method seperti Create, read, update, dan delete.
   2. Class Mahasiswa untuk membuat suatu objek "Mahasiswa" yang mempunyai atribut nama, nim, prodi, fakultas, serta foto profil(untuk bahasa PHP).
+  3. Terdapat pula list dan array untuk menampung atribut dari Class Mahasiswa dan Class Crud.
 
-
-- ## C++, Python, Java
+## Penjelasan Alur C++, Python, Java
 1. Program ini memiliki fitur Create untuk menambahkan data, Read untuk menampilkan atau membaca data, Update untuk mengubah data, dan Delete untuk menghapus data.
 
 ![image](https://user-images.githubusercontent.com/100895165/219072191-f280ea0c-090a-4cb1-bd73-c974476fee8c.png)
-- untuk menambah data dapat memasukan angka 1
-- untuk menampilkan data dapat memasukan angka 2
-- untuk mengubah data dapat memasukan angka 3
-- untuk menghapus data dapat memasukan angka 4
-- untuk keluar dari program dapat memasukan angka 5
+- Pertama, program masuk ke dalam while dan selama inputan bukan angka 5, maka program akan terus meminta inputan. Berikut beberapa fitur untuk inputan user :
+  - untuk menambah data dapat memasukan angka 1
+  - untuk menampilkan data dapat memasukan angka 2
+  - untuk mengubah data dapat memasukan angka 3
+  - untuk menghapus data dapat memasukan angka 4
+  - untuk keluar dari program dapat memasukan angka 5
 2. Jika ingin menambahkan data, maka program akan meminta input berapa banyak data yang akan dimasukan.
 ![image](https://user-images.githubusercontent.com/100895165/219073805-77e0ed50-18b5-4b88-b20b-f1b7dcfc1d6e.png)
 3. Jika ingin mengubah atau menghapus data, maka program akan meminta nim yang akan diubah atau dihapus yang terdapat pada data.
