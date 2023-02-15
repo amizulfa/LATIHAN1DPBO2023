@@ -49,6 +49,7 @@ py [nama file].py
 
 - ## C++, Python, Java
 1. Program ini memiliki fitur Create untuk menambahkan data, Read untuk menampilkan atau membaca data, Update untuk mengubah data, dan Delete untuk menghapus data.
+
 ![image](https://user-images.githubusercontent.com/100895165/219072191-f280ea0c-090a-4cb1-bd73-c974476fee8c.png)
 - untuk menambah data dapat memasukan angka 1
 - untuk menampilkan data dapat memasukan angka 2
