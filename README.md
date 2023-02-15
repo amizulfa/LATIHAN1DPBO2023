@@ -45,7 +45,7 @@ py [nama file].py
 > Pada program yang saya buat, terdapat 2 Class dan 1 Main, yaitu:
   1. Class Crud untuk membuat suatu objek CRUD yang mempunyai fungsi atau method seperti Create, read, update, dan delete.
   2. Class Mahasiswa untuk membuat suatu objek "Mahasiswa" yang mempunyai atribut nama, nim, prodi, fakultas, serta foto profil(untuk bahasa PHP).
-  3. Terdapat pula list dan array untuk menampung atribut dari Class Mahasiswa dan Class Crud.
+  3. Terdapat pula atribut list yaitu array untuk menampung atau menyimpan atribut Class Mahasiswa dan Class Crud.
 
 ## Penjelasan Alur C++, Python, Java
 1. Program ini memiliki fitur Create untuk menambahkan data, Read untuk menampilkan atau membaca data, Update untuk mengubah data, dan Delete untuk menghapus data.
